@@ -50,5 +50,7 @@ int main (void)
 
     printf("Retourne %d\n",nb_rech);
 
+    printf("commit numero 2! \n");
+
     return 0;
 }
